@@ -1,0 +1,6 @@
+to create a shortcut of cmd for runing an specific comand when run:
+
+create a shortcut file with:
+C:\Windows\System32\cmd.exe /k your-command
+/k for keeping open
+/c for closing
